@@ -6,7 +6,7 @@ export function Footer() {
     return (
         <footer className="w-full text-center py-4 mt-auto">
             <p className="text-sm text-slate-500">
-                v0.2.5 | Copyright © {currentYear} PassGuard. All Rights Reserved.
+                v0.2.6 | Copyright © {currentYear} PassGuard. All Rights Reserved.
             </p>
         </footer>
     );

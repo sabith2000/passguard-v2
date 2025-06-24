@@ -22,3 +22,16 @@
 *::-webkit-scrollbar-thumb:hover {
     background: #64748b; /* slate-500 */
 }
+
+/* Added for smooth collapse/expand animation */
+details .content-wrapper {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.3s ease-out;
+}
+details[open] .content-wrapper {
+    grid-template-rows: 1fr;
+}
+.content-wrapper > div {
+    overflow: hidden;
+}
