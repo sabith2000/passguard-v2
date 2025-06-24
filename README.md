@@ -1,7 +1,7 @@
 # 🛡️ PassGuard v2 - A Modern Password Generator
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v0.2.2-blueviolet" alt="Version">
+  <img src="https://img.shields.io/badge/version-v0.2.4-blueviolet" alt="Version">
   <img src="https://img.shields.io/badge/framework-React-blue" alt="Framework">
   <img src="https://img.shields.io/badge/styling-TailwindCSS-cyan" alt="Styling">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
